@@ -1,0 +1,63 @@
+body {
+  background-color: bisque;
+}
+.images {
+  display: flex;
+  flex-direction: column;
+  min-width: 30px;
+  max-width: 300px;
+}
+.verktøy {
+  width: 500px;
+  border: 15px;
+  background-color: chartreuse;
+  height: 30px;
+  text-align: center;
+  font-size: x-large;
+  padding-top: 5px;
+}
+.HTML {
+  width: 500px;
+  border: 15px;
+  background-color: cyan;
+  height: 30px;
+  text-align: center;
+  font-size: x-large;
+  padding-top: 5px;
+}
+.CSS {
+  width: 500px;
+  border: 15px;
+  background-color: crimson;
+  height: 30px;
+  text-align: center;
+  font-size: x-large;
+  padding-top: 5px;
+}
+.JavaScript {
+  width: 500px;
+  border: 15px;
+  background-color: gold;
+  height: 30px;
+  text-align: center;
+  font-size: x-large;
+  padding-top: 5px;
+}
+.Hode {
+  width: 500px;
+  border: 15px;
+  background-color: dimgrey;
+  height: 30px;
+  text-align: center;
+  font-size: x-large;
+  padding-top: 5px;
+}
+.første {
+  width: 500px;
+  border: 15px;
+  background-color: dimgrey;
+  height: 30px;
+  text-align: center;
+  font-size: x-large;
+  padding-top: 5px;
+}
